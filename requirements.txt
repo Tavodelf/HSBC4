@@ -1,0 +1,10 @@
+pandas
+numpy
+lightgbm
+shap
+matplotlib
+scikit-learn==1.4.2
+imbalanced-learn
+gunicorn
+flask
+pgmpy
