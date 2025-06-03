@@ -11,7 +11,7 @@ import os
 import numpy as np
 
 # Cargar el modelo y las features
-with open('modelo_lightgbm_ensemble_con_features.pkl', 'rb') as f:
+with open('modelo_lightgbm_ensemble_con_features (2).pkl', 'rb') as f:
     final_model, features = pickle.load(f)
 
 # Crear la app Flask
